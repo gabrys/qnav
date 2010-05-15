@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/AndNav2/src/org/andnav2/ui/common
+END
+CommonCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/CommonCallback.java
+END
+CommonCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/CommonCallbackAdapter.java
+END
+InlineAutoCompleterDynamic.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/InlineAutoCompleterDynamic.java
+END
+OnClickOnFocusChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/OnClickOnFocusChangedListener.java
+END
+AdProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/AdProgressDialog.java
+END
+OnClickOnFocusChangedListenerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/OnClickOnFocusChangedListenerAdapter.java
+END
+CommonDialogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14/trunk/AndNav2/src/org/andnav2/ui/common/CommonDialogFactory.java
+END
+InlineAutoCompleterCombined.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/InlineAutoCompleterCombined.java
+END
+InlineAutoCompleterConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/InlineAutoCompleterConstant.java
+END
+MyDataStateChangedWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/MyDataStateChangedWatcher.java
+END
+DataStateChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/DataStateChangedListener.java
+END

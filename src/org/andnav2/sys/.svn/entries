@@ -1,0 +1,61 @@
+10
+
+dir
+14
+http://andnav.googlecode.com/svn/trunk/AndNav2/src/org/andnav2/sys
+http://andnav.googlecode.com/svn
+
+
+
+2010-01-15T13:30:29.277089Z
+5
+tomas.rybicka@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a796ab36-f541-11de-b359-dd99991af1b2
+
+ftpc
+dir
+
+maptilepacks
+dir
+
+mylieu
+dir
+
+ors
+dir
+
+osb
+dir
+
+postcode
+dir
+
+serverdowntime
+dir
+
+traffic
+dir
+
+trailmapping
+dir
+
+turninstructions
+dir
+
+vehicleregistrationplates
+dir
+

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util
+END
+Mercator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/Mercator.java
+END
+MercatorSpherical.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/MercatorSpherical.java
+END
+MercatorElliptical.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/MercatorElliptical.java
+END
+NoMagicNumberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/NoMagicNumberException.java
+END
+LRUMapTileCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/LRUMapTileCache.java
+END
+MyMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/MyMath.java
+END
+KMPMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/KMPMatcher.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/Util.java
+END
+StreamUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/util/StreamUtils.java
+END

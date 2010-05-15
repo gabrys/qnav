@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings
+END
+SettingsORSServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsORSServer.java
+END
+SettingsVoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsVoice.java
+END
+SettingsKeyLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsKeyLayout.java
+END
+SettingsStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsStatistics.java
+END
+SettingsColorscheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsColorscheme.java
+END
+SettingsRoutingFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsRoutingFlags.java
+END
+SettingsMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsMenu.java
+END
+SettingsScreenOrientation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsScreenOrientation.java
+END
+SettingsRotateMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsRotateMode.java
+END
+SettingsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsCache.java
+END
+SettingsSelectHome.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsSelectHome.java
+END
+SettingsQuality.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsQuality.java
+END
+SettingsMyLieu.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsMyLieu.java
+END
+SettingsCenterMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsCenterMode.java
+END
+SettingsRouteViewing.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsRouteViewing.java
+END
+SettingsNavigation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsNavigation.java
+END
+SettingsUnitSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsUnitSystem.java
+END
+SettingsDirectionVoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsDirectionVoice.java
+END
+SettingsTracePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsTracePolicy.java
+END
+SettingsHUD.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsHUD.java
+END
+SettingsDirectionLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/settings/SettingsDirectionLanguage.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/constants
+END
+GMLXMLConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/constants/GMLXMLConstants.java
+END
+MathConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/constants/MathConstants.java
+END
+OSMConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/constants/OSMConstants.java
+END

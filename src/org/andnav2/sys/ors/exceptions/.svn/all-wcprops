@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/exceptions
+END
+ORSException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/exceptions/ORSException.java
+END
+DecodingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/exceptions/DecodingException.java
+END

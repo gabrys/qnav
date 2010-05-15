@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/adapters
+END
+ORSServerListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/adapters/ORSServerListAdapter.java
+END
+CountryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/adapters/CountryAdapter.java
+END
+CountrySubdivisionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/adapters/CountrySubdivisionAdapter.java
+END
+KeyLayoutAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/adapters/KeyLayoutAdapter.java
+END
+NumberPadAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/common/adapters/NumberPadAdapter.java
+END

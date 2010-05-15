@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles
+END
+OSMMapTileProviderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/OSMMapTileProviderInfo.java
+END
+OSMAbstractMapTileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/OSMAbstractMapTileProvider.java
+END
+OSMMapTileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/OSMMapTileManager.java
+END
+OSMMapTileProviderType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/OSMMapTileProviderType.java
+END

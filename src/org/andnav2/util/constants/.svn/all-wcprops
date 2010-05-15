@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/12/trunk/AndNav2/src/org/andnav2/util/constants
+END
+AdFreeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/constants/AdFreeConstants.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/12/trunk/AndNav2/src/org/andnav2/util/constants/Constants.java
+END
+GeoConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/constants/GeoConstants.java
+END
+UnitConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/constants/UnitConstants.java
+END
+MathematicalConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/constants/MathematicalConstants.java
+END
+TimeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/constants/TimeConstants.java
+END

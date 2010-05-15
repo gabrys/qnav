@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/lus
+END
+LUSReverseGeocodeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/lus/LUSReverseGeocodeParser.java
+END
+LUSRequestComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/lus/LUSRequestComposer.java
+END
+LUSGeocodeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/lus/LUSGeocodeParser.java
+END
+LUSRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/lus/LUSRequester.java
+END

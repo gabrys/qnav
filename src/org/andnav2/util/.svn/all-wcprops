@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/AndNav2/src/org/andnav2/util
+END
+UserTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/UserTask.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/Base64.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/MD5.java
+END
+HTMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/HTMLUtil.java
+END
+FileSizeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/FileSizeFormatter.java
+END
+Capitalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/Capitalizer.java
+END
+MyMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/MyMath.java
+END
+TimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/TimeUtils.java
+END
+LexicographicalComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/LexicographicalComparator.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/util/Util.java
+END

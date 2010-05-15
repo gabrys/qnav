@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5/trunk/AndNav2/src/org/andnav2/sys/ors/adt/rs
+END
+RoutePreferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/rs/RoutePreferenceType.java
+END
+DirectionsLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5/trunk/AndNav2/src/org/andnav2/sys/ors/adt/rs/DirectionsLanguage.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/rs/Route.java
+END
+RouteInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/rs/RouteInstruction.java
+END

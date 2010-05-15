@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/12/trunk/AndNav2/res/values-de
+END
+strings_settings_osmcontribution.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_osmcontribution.xml
+END
+strings_settings_displayquality.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_displayquality.xml
+END
+strings_settings_rotatemode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_rotatemode.xml
+END
+strings_credits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_credits.xml
+END
+strings_sd_ziporcity.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_ziporcity.xml
+END
+strings_ddmap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_ddmap.xml
+END
+strings_sd_countrysubdivison.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_countrysubdivison.xml
+END
+strings_settings_routingflags.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_routingflags.xml
+END
+strings_settings_centerandrotatemode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_centerandrotatemode.xml
+END
+strings_sd_poi_categories.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_poi_categories.xml
+END
+strings_unitsystems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_unitsystems.xml
+END
+strings_appnames.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_appnames.xml
+END
+strings_settings_screenorientation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_screenorientation.xml
+END
+strings_cdf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_cdf.xml
+END
+strings_didyouknow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_didyouknow.xml
+END
+strings_firstaid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_firstaid.xml
+END
+strings_dialect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_dialect.xml
+END
+strings_adprogress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_adprogress.xml
+END
+strings_sd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd.xml
+END
+strings_basic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_basic.xml
+END
+strings_settings_navigation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_navigation.xml
+END
+strings_settings_voice.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_settings_voice.xml
+END
+strings_settings_followmode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_followmode.xml
+END
+strings_settings_orsserver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_orsserver.xml
+END
+strings_maps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_maps.xml
+END
+countries.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/countries.xml
+END
+strings_sd_resolver.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_resolver.xml
+END
+strings_settings_tracepolicy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_tracepolicy.xml
+END
+strings_settings_hud.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_hud.xml
+END
+strings_sd_poi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_poi.xml
+END
+strings_menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_menu.xml
+END
+strings_sd_zipcode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_zipcode.xml
+END
+strings_sd_streetnumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_streetnumber.xml
+END
+strings_sd_streetname.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_streetname.xml
+END
+strings_settings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings.xml
+END
+strings_osb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_osb.xml
+END
+strings_sd_mainchoose.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_sd_mainchoose.xml
+END
+strings_settings_statistics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_statistics.xml
+END
+strings_settings_sethome.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_sethome.xml
+END
+strings_settings_cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_settings_cache.xml
+END
+strings_sd_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_contacts.xml
+END
+strings_sd_postcode_uk_bs_7666.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_sd_postcode_uk_bs_7666.xml
+END
+strings_sd_country.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_country.xml
+END
+strings_sd_favorites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_sd_favorites.xml
+END
+strings_sd_savedroutechooser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_savedroutechooser.xml
+END
+strings_settings_colorscheme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_colorscheme.xml
+END
+strings_settings_keylayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_keylayout.xml
+END
+strings_settings_directionslanguage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_directionslanguage.xml
+END
+strings_donate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_donate.xml
+END
+strings_sd_savedtracechooser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_sd_savedtracechooser.xml
+END
+strings_veecheck.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_veecheck.xml
+END
+strings_settings_unitsystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_unitsystem.xml
+END
+strings_whereami.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10/trunk/AndNav2/res/values-de/strings_whereami.xml
+END
+strings_settings_routeviewing.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/AndNav2/res/values-de/strings_settings_routeviewing.xml
+END

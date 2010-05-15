@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ds
+END
+ORSPOI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ds/ORSPOI.java
+END
+DirectoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ds/DirectoryType.java
+END
+OSMRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ds/OSMRepresentation.java
+END
+POIGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ds/POIGroup.java
+END
+POIType.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ds/POIType.java
+END

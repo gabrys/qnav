@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud
+END
+IHUDImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/IHUDImpl.java
+END
+IHUDNextActionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/IHUDNextActionView.java
+END
+IHUDTurnDescriptionView.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/IHUDTurnDescriptionView.java
+END
+IHUDImplVariation.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/IHUDImplVariation.java
+END
+HUDRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/HUDRegistry.java
+END
+IHUDView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/IHUDView.java
+END
+IHUDRemainingSummaryView.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/map/hud/IHUDRemainingSummaryView.java
+END

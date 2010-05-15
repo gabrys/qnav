@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/12/trunk/AndNav2/src/org/andnav2/ui/sd
+END
+SDZip.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDZip.java
+END
+SDSavedTraceChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDSavedTraceChooser.java
+END
+SDCountrySubdivision.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDCountrySubdivision.java
+END
+SDSavedRouteChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDSavedRouteChooser.java
+END
+SDFavorites.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDFavorites.java
+END
+SDCountry.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDCountry.java
+END
+SDContacts.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDContacts.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/Util.java
+END
+SDMainChoose.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDMainChoose.java
+END
+SDPOISearchList.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDPOISearchList.java
+END
+SDZipOrCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDZipOrCity.java
+END
+SDStreetNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDStreetNumber.java
+END
+SDCity.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDCity.java
+END
+SDPostcodeUK_BS7666.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDPostcodeUK_BS7666.java
+END
+SDPOIEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDPOIEntry.java
+END
+SDResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDResolver.java
+END
+SDPOICategories.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/AndNav2/src/org/andnav2/ui/sd/SDPOICategories.java
+END
+SDStreet.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/sd/SDStreet.java
+END

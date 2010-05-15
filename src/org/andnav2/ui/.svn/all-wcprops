@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14/trunk/AndNav2/src/org/andnav2/ui
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/AndNav2/src/org/andnav2/ui/Menu.java
+END
+StartupWarning.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/StartupWarning.java
+END
+About.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/About.java
+END
+AndNavGPSActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/AndNavGPSActivity.java
+END
+AndNavBaseActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/ui/AndNavBaseActivity.java
+END

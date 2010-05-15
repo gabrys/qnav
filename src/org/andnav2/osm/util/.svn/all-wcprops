@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util
+END
+ValuePair.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/ValuePair.java
+END
+CoordinatesExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/CoordinatesExtractor.java
+END
+MyMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/MyMath.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/util/Util.java
+END

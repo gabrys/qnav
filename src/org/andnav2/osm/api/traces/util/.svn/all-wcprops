@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/api/traces/util
+END
+GPXFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/api/traces/util/GPXFormatter.java
+END
+RouteRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/api/traces/util/RouteRecorder.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/api/traces/util/Util.java
+END

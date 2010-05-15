@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/AndNav2/res/raw
+END
+skip.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/skip.mp3
+END
+select_a_favourite.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/select_a_favourite.mp3
+END
+turn_left.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/turn_left.mp3
+END
+enter_a_zipcode.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/enter_a_zipcode.mp3
+END
+choose_a_country.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/choose_a_country.mp3
+END
+turn_right_sharply.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/turn_right_sharply.mp3
+END
+take_a_sharp_left.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/take_a_sharp_left.mp3
+END
+please_wait_a_moment.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/please_wait_a_moment.mp3
+END
+km_1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/km_1.mp3
+END
+km_2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/km_2.mp3
+END
+km_5.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/km_5.mp3
+END
+km_10.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/km_10.mp3
+END
+firstaid_step02_call911.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/firstaid_step02_call911.mp3
+END
+m_100.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/m_100.mp3
+END
+y_50.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/y_50.mp3
+END
+mi_10.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/mi_10.mp3
+END
+settings.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/settings.mp3
+END
+m_500.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/m_500.mp3
+END
+target_reached.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/target_reached.mp3
+END
+firstaid_step01_selfprotect.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/firstaid_step01_selfprotect.mp3
+END
+refetching_route.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/refetching_route.mp3
+END
+continue_ahead.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/continue_ahead.mp3
+END
+y_100.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/y_100.mp3
+END
+m_50.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/m_50.mp3
+END
+first_aid.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/first_aid.mp3
+END
+home_sweet_home.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/home_sweet_home.mp3
+END
+y_500.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/y_500.mp3
+END
+bear_left.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/bear_left.mp3
+END
+enter_a_streetname.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/enter_a_streetname.mp3
+END
+number_0.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_0.mp3
+END
+number_1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_1.mp3
+END
+number_2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_2.mp3
+END
+number_3.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_3.mp3
+END
+number_4.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_4.mp3
+END
+number_5.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_5.mp3
+END
+number_6.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_6.mp3
+END
+km_25.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/km_25.mp3
+END
+turn_left_sharply.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/turn_left_sharply.mp3
+END
+number_7.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_7.mp3
+END
+number_8.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_8.mp3
+END
+number_9.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/number_9.mp3
+END
+select_from_contacts.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/select_from_contacts.mp3
+END
+mi_25.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/mi_25.mp3
+END
+mi_1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/mi_1.mp3
+END
+mi_2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/mi_2.mp3
+END
+quit.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/quit.mp3
+END
+turn_around.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/turn_around.mp3
+END
+route_missed.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/route_missed.mp3
+END
+bear_right.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/bear_right.mp3
+END
+mi_5.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/mi_5.mp3
+END
+turn_right.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/turn_right.mp3
+END
+enter_a_cityname.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/enter_a_cityname.mp3
+END
+ok.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/ok.mp3
+END
+m_200.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/m_200.mp3
+END
+route_resumed.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/route_resumed.mp3
+END
+y_1000.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/y_1000.mp3
+END
+y_200.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/y_200.mp3
+END
+go_straight_on.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/go_straight_on.mp3
+END
+waypoint_passed.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/waypoint_passed.mp3
+END
+where_am_i.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/where_am_i.mp3
+END
+enter_a_streetnumber.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/enter_a_streetnumber.mp3
+END
+take_a_sharp_right.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/take_a_sharp_right.mp3
+END
+search_destination.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/search_destination.mp3
+END
+close.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/close.mp3
+END
+choose_zipcode_or_cityname.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/choose_zipcode_or_cityname.mp3
+END
+firstaid_step03_recoveryposition.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/firstaid_step03_recoveryposition.mp3
+END
+save.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/AndNav2/res/raw/save.mp3
+END

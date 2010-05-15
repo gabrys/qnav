@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/3/trunk/AndNav2/ext/osm
+END
+osmapi_adding_nodes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AndNav2/ext/osm/osmapi_adding_nodes.txt
+END
+collegepark.sqlite.db
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/ext/osm/collegepark.sqlite.db
+END
+collegepark.sqlite.gz
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/AndNav2/ext/osm/collegepark.sqlite.gz
+END

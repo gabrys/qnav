@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/caching
+END
+OSMMapTileMemoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/caching/OSMMapTileMemoryCache.java
+END
+OSMMapTileFilesystemCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/caching/OSMMapTileFilesystemCache.java
+END
+AbstractOSMMapTileFilesystemCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/caching/AbstractOSMMapTileFilesystemCache.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/tiles/caching/LRUCache.java
+END

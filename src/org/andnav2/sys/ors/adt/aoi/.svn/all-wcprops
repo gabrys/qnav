@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/aoi
+END
+AreaOfInterest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/aoi/AreaOfInterest.java
+END
+Polygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/aoi/Polygon.java
+END
+CircleByCenterPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/aoi/CircleByCenterPoint.java
+END

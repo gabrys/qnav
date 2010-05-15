@@ -1,0 +1,104 @@
+10
+
+dir
+14
+http://andnav.googlecode.com/svn/trunk/AndNav2/src/org/andnav2
+http://andnav.googlecode.com/svn
+
+
+
+2010-01-27T10:32:57.746987Z
+14
+jahrome11
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a796ab36-f541-11de-b359-dd99991af1b2
+
+Splash.java
+file
+
+
+
+
+2010-05-15T17:30:01.000000Z
+695cc551d92ec79ba63196567a4427aa
+2009-12-30T13:34:13.532219Z
+3
+NicolasGramlich
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7649
+
+adt
+dir
+
+app
+dir
+
+db
+dir
+
+exc
+dir
+
+loc
+dir
+
+nav
+dir
+
+osm
+dir
+
+paypal
+dir
+
+preferences
+dir
+
+skyhook
+dir
+
+sound
+dir
+
+sys
+dir
+
+ui
+dir
+
+util
+dir
+

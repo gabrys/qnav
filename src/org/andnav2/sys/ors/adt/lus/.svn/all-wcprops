@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5/trunk/AndNav2/src/org/andnav2/sys/ors/adt/lus
+END
+ICountrySubdivision.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/lus/ICountrySubdivision.java
+END
+CountrySubdivisionsUS.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/lus/CountrySubdivisionsUS.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5/trunk/AndNav2/src/org/andnav2/sys/ors/adt/lus/Country.java
+END
+CountrySubdivisionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/lus/CountrySubdivisionRegistry.java
+END
+ReverseGeocodePreferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/lus/ReverseGeocodePreferenceType.java
+END

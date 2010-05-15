@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/traffic/tpeg/tpegml/impl
+END
+BBCTPEGMLTrafficReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/traffic/tpeg/tpegml/impl/BBCTPEGMLTrafficReceiver.java
+END
+TPEGDocumentToAOIConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/traffic/tpeg/tpegml/impl/TPEGDocumentToAOIConverter.java
+END
+TPEGDocumentToTrafficItemConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/traffic/tpeg/tpegml/impl/TPEGDocumentToTrafficItemConverter.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/aas
+END
+AASRequestComposer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/aas/AASRequestComposer.java
+END
+AASRequester.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/aas/AASRequester.java
+END
+AASResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/aas/AASResponse.java
+END
+AASParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/aas/AASParser.java
+END

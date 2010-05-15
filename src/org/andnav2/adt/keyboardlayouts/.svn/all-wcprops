@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/keyboardlayouts
+END
+AbstractKeyBoardLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/keyboardlayouts/AbstractKeyBoardLayout.java
+END
+AutoFitKeyBoardLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/keyboardlayouts/AutoFitKeyBoardLayout.java
+END
+FixedWidthKeyBoardLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/keyboardlayouts/FixedWidthKeyBoardLayout.java
+END
+KeyBoardLayoutImpls.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/keyboardlayouts/KeyBoardLayoutImpls.java
+END

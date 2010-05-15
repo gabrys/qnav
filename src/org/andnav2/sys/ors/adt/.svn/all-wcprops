@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5/trunk/AndNav2/src/org/andnav2/sys/ors/adt
+END
+GeocodedAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/GeocodedAddress.java
+END
+Error.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/Error.java
+END
+ORSServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/ORSServer.java
+END
+AvoidFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/sys/ors/adt/AvoidFeature.java
+END

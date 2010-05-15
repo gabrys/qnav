@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/Direction.java
+END
+Favorite.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/Favorite.java
+END
+DBPOI.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/DBPOI.java
+END
+TrafficFeed.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/TrafficFeed.java
+END
+UnitSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/UnitSystem.java
+END
+AndNavLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/adt/AndNavLocation.java
+END

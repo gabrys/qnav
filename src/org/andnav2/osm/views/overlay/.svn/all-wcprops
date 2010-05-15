@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay
+END
+AbstractOSMMapViewItemizedOverlayWithFocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/AbstractOSMMapViewItemizedOverlayWithFocus.java
+END
+OSMMapViewItemizedOverlayControlView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewItemizedOverlayControlView.java
+END
+BaseOSMMapViewListItemizedOverlayWithFocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/BaseOSMMapViewListItemizedOverlayWithFocus.java
+END
+OSMMapViewDirectedLocationOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewDirectedLocationOverlay.java
+END
+OSMMapViewSimpleRectangleOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewSimpleRectangleOverlay.java
+END
+OSMMapViewOverlayItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewOverlayItem.java
+END
+OSMMapViewSpacialIndexItemizedOverlayWithFocus.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewSpacialIndexItemizedOverlayWithFocus.java
+END
+OSMMapViewOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewOverlay.java
+END
+OSMMapViewSingleIconOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewSingleIconOverlay.java
+END
+OSMMapViewCrosshairOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewCrosshairOverlay.java
+END
+OSMMapViewSimpleTraceOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewSimpleTraceOverlay.java
+END
+AbstractOSMMapViewItemizedOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/AbstractOSMMapViewItemizedOverlay.java
+END
+OSMMapViewSimpleLineOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewSimpleLineOverlay.java
+END
+OSMMapViewSimpleLocationOverlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/AndNav2/src/org/andnav2/osm/views/overlay/OSMMapViewSimpleLocationOverlay.java
+END
